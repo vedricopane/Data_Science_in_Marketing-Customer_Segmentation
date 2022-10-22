@@ -1,0 +1,2 @@
+# Data_Science_in_Marketing-Customer_Segmentation
+Penerapan Data Science dalam menentukan Customer Segmentation
